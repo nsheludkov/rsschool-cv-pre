@@ -25,14 +25,12 @@
   }
 
   .main-header {
-    border: 1px solid red;
     color: rgb(57, 168, 23);
   }
 
   .container {
     max-width: 1440px;
     margin: 0 auto;
-    border: 1px solid red;
   }
 
   .nav-list {
@@ -89,5 +87,8 @@ section {
   }
 }
 
+h1 {
+  font-size: 36px;
+}
 
 
